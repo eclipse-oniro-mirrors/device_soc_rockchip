@@ -1,0 +1,31 @@
+rk3588-bearkey-bq3588c1-linux.o: \
+ vendor/arch/arm64/boot/dts/rockchip/rk3588-bearkey-bq3588c1-linux.dts \
+ vendor/arch/arm64/boot/dts/rockchip/rk3588-bearkey-bq3588c1-linux.dtsi \
+ scripts/dtc/include-prefixes/dt-bindings/usb/pd.h \
+ vendor/arch/arm64/boot/dts/rockchip/rk3588.dtsi \
+ vendor/arch/arm64/boot/dts/rockchip/../../../../../include/dt-bindings/phy/phy-snps-pcie3.h \
+ vendor/arch/arm64/boot/dts/rockchip/rk3588s.dtsi \
+ vendor/arch/arm64/boot/dts/rockchip/../../../../../include/dt-bindings/clock/rk3588-cru.h \
+ vendor/arch/arm64/boot/dts/rockchip/../../../../..//include/dt-bindings/interrupt-controller/arm-gic.h \
+ scripts/dtc/include-prefixes/dt-bindings/interrupt-controller/irq.h \
+ vendor/arch/arm64/boot/dts/rockchip/../../../../../include/dt-bindings/interrupt-controller/irq.h \
+ vendor/arch/arm64/boot/dts/rockchip/../../../../../include/dt-bindings/phy/phy.h \
+ vendor/arch/arm64/boot/dts/rockchip/../../../../../include/dt-bindings/power/rk3588-power.h \
+ vendor/arch/arm64/boot/dts/rockchip/../../../../../include/dt-bindings/soc/rockchip,boot-mode.h \
+ vendor/arch/arm64/boot/dts/rockchip/../../../../../include/dt-bindings/soc/rockchip-system-status.h \
+ vendor/arch/arm64/boot/dts/rockchip/../../../../../include/dt-bindings/suspend/rockchip-rk3588.h \
+ vendor/arch/arm64/boot/dts/rockchip/rk3588s-pinctrl.dtsi \
+ scripts/dtc/include-prefixes/dt-bindings/pinctrl/rockchip.h \
+ vendor/arch/arm64/boot/dts/rockchip/rockchip-pinconf.dtsi \
+ vendor/arch/arm64/boot/dts/rockchip/rk3588-vccio3-pinctrl.dtsi \
+ vendor/arch/arm64/boot/dts/rockchip/rk3588-evb.dtsi \
+ scripts/dtc/include-prefixes/dt-bindings/gpio/gpio.h \
+ scripts/dtc/include-prefixes/dt-bindings/pwm/pwm.h \
+ vendor/arch/arm64/boot/dts/rockchip/../../../../../include/dt-bindings/input/rk-input.h \
+ vendor/arch/arm64/boot/dts/rockchip/../../../../../include/dt-bindings/display/drm_mipi_dsi.h \
+ vendor/arch/arm64/boot/dts/rockchip/../../../../../include/dt-bindings/display/rockchip_vop.h \
+ vendor/arch/arm64/boot/dts/rockchip/../../../../../include/dt-bindings/sensor-dev.h \
+ vendor/arch/arm64/boot/dts/rockchip/rk3588-rk806-single.dtsi \
+ vendor/arch/arm64/boot/dts/rockchip/rk3588-linux.dtsi \
+ vendor/arch/arm64/boot/dts/rockchip/rk3588-bearkey-bq3588c1-dsi1.dtsi \
+ vendor/arch/arm64/boot/dts/rockchip/rk3588-carrier-board-ov13855-csi1.dtsi
