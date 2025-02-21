@@ -1,0 +1,5 @@
+# SPDX-License-Identifier: GPL-2.0-only
+#
+# Wireless LAN device configuration
+#
+source "vendor/drivers/net/wireless/rockchip_wlan/Kconfig"
