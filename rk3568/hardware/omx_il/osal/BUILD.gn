@@ -1,0 +1,96 @@
+# Copyright (C) 2021 HiHope Open Source Organization .
+# Licensed under the Apache License, Version 2.0 (the "License");
+# you may not use this file except in compliance with the License.
+# You may obtain a copy of the License at
+#
+# http://www.apache.org/licenses/LICENSE-2.0
+#
+# Unless required by applicable law or agreed to in writing, software
+# distributed under the License is distributed on an "AS IS" BASIS,
+# WITHOUT WARRANTIES OR CONDITIONS OF ANY KIND, either express or implied.
+# See the License for the specific language governing permissions and
+# limitations under the License.
+
+import("//build/ohos.gni")
+import("//device/soc/rockchip/rk3568/hardware/omx_il/rk_omx.gni")
+import("//drivers/hdf_core/adapter/uhdf2/uhdf.gni")
+
+ohos_static_library("RkOMX_OSAL") {
+  sources = [
+    "Rockchip_OSAL_ColorUtils.cpp",
+    "Rockchip_OSAL_ETC.c",
+    "Rockchip_OSAL_Env.c",
+    "Rockchip_OSAL_Event.c",
+    "Rockchip_OSAL_Library.c",
+    "Rockchip_OSAL_Log.c",
+    "Rockchip_OSAL_Memory.c",
+    "Rockchip_OSAL_Mutex.c",
+    "Rockchip_OSAL_OHOS.cpp",
+    "Rockchip_OSAL_Queue.c",
+    "Rockchip_OSAL_RGA_Process.c",
+    "Rockchip_OSAL_Semaphore.c",
+    "Rockchip_OSAL_SharedMemory.c",
+    "Rockchip_OSAL_Thread.c",
+  ]
+
+  include_dirs = [
+    ".",
+    "//device/soc/rockchip/rk3568/hardware/mpp/mpp/legacy",
+    "//device/soc/rockchip/rk3568/hardware/mpp/include",
+    "//device/soc/rockchip/rk3568/hardware/omx_il/component/common",
+    "//device/soc/rockchip/rk3568/hardware/omx_il/component/video/dec",
+    "//device/soc/rockchip/rk3568/hardware/omx_il/component/video/enc",
+    "//device/soc/rockchip/rk3568/hardware/omx_il/include/khronos",
+    "//device/soc/rockchip/rk3568/hardware/omx_il/include/rockchip",
+    "//device/soc/rockchip/rk3568/hardware/omx_il/include/librkvpu",
+    "//device/soc/rockchip/rk3568/hardware/omx_il/include/librkvpu",
+    "//device/soc/rockchip/rk3568/hardware/rga/include",
+    "//drivers/hdf_core/framework/include/utils",
+    "//drivers/hdf_core/adapter/uhdf2/osal/include",
+    "//drivers/peripheral/base",
+    "//drivers/peripheral/display/interfaces/include",
+    "//drivers/peripheral/codec/interfaces/include",
+    "//third_party/libdrm/include/drm",
+    "//third_party/openmax/api/1.1.2",
+    "//commonlibrary/c_utils/base/include",
+  ]
+
+  cflags = [
+    "-Wno-implicit-function-declaration",
+    "-Wno-unused-variable",
+    "-DAVS100=1",
+    "-DOHOS",
+  ]
+
+  cflags_cc = [
+    "-Wno-implicit-function-declaration",
+    "-Wno-unused-variable",
+    "-Wno-format",
+    "-Wno-switch",
+    "-DAVS100=1",
+    "-DOHOS",
+  ]
+
+  if (USE_AFBC) {
+    cflags += [ "-DSUPPORT_AFBC" ]
+    cflags_cc += [ "-DSUPPORT_AFBC" ]
+  }
+
+  if (USE_GPU) {
+    cflags += [ "-DROCKCHIP_GPU_LIB_ENABLE" ]
+    cflags_cc += [ "-DROCKCHIP_GPU_LIB_ENABLE" ]
+  }
+
+  if (USE_RGA) {
+    cflags += [ "-DSUPPORT_RGA" ]
+    cflags_cc += [ "-DSUPPORT_RGA" ]
+  }
+
+  cflags += [ "-DOHOS_BUFFER_HANDLE" ]
+  cflags_cc += [ "-DOHOS_BUFFER_HANDLE" ]
+
+  deps =
+      [ "//device/soc/rockchip/rk3568/hardware/mpp/mpp/legacy:librockchip_vpu" ]
+
+  external_deps = [ "hiviewdfx_hilog_native:libhilog" ]
+}
