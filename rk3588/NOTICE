@@ -1,0 +1,603 @@
+OPEN SOURCE SOFTWARE NOTICE
+
+Please note we provide an open source software notice for the third party open source software along with this software and/or this software component (in the following just “this SOFTWARE”). The open source software licenses are granted by the respective right holders.
+
+Warranty Disclaimer
+THE OPEN SOURCE SOFTWARE IN THIS PRODUCT IS DISTRIBUTED IN THE HOPE THAT IT WILL BE USEFUL, BUT WITHOUT ANY WARRANTY, WITHOUT EVEN THE IMPLIED WARRANTY OF MERCHANTABILITY OR FITNESS FOR A PARTICULAR PURPOSE. SEE THE APPLICABLE LICENSES FOR MORE DETAILS.
+
+Copyright Notice and License Texts
+----------------------------------------------------------------------
+
+Software: rockchip-linux mpp
+https://github.com/rockchip-linux/mpp
+Commit Ib95999221bef8c9d385b70736ab7978926a78836
+
+Copyright notice:
+Copyright 2015 Rockchip Electronics Co. LTD
+Copyright 2016 Rockchip Electronics Co. LTD
+Copyright 2017 Rockchip Electronics Co. LTD
+Copyright 2020 Rockchip Electronics Co. LTD
+Copyright (C) 2020 Rockchip Electronics Co., Ltd.
+Copyright 2021 Rockchip Electronics Co. LTD
+Copyright (C) 2021 Rockchip Electronics Co., Ltd.
+Copyright 2022 Rockchip Electronics Co. LTD
+
+License: Apache License V2.0
+Unless specifically indicated otherwise in a file, files are licensed
+under the Apache 2.0 license, as can be found in: LICENSE
+
+----------------------------------------------------------------------
+
+Software: rockchip-android hardware-rockchip-librga
+https://github.com/rockchip-android/hardware-rockchip-librga
+commit 849acb8d2c190620324cb56f191aac09f8546725
+
+Copyright notice:
+Copyright (C) 2016 Rockchip Electronics Co., Ltd.
+Copyright (C) 2017-2018 RockChip Limited. All rights reserved.
+Copyright (C) 2020 Rockchip Electronics Co., Ltd.
+Copyright (C) 2021 Rockchip Electronics Co., Ltd.
+Copyright (C) 2022 Rockchip Electronics Co., Ltd.
+
+License: Apache License V2.0
+Unless specifically indicated otherwise in a file, files are licensed
+under the Apache 2.0 license, as can be found in: LICENSE
+
+----------------------------------------------------------------------
+
+Software: rockchip-linux kernel develop-5.10
+https://github.com/rockchip-linux/kernel/tree/develop-5.10
+commit a4423c56f430bfc7c75dbb68d4a9a1a0ef62b371
+
+
+Copyright notice:
+Copyright 2020 Google LLC
+Copyright (C) 2007-2009  STMicroelectronics Ltd
+Copyright (C) 2009-2010 Texas Instruments Incorporated.
+Copyright (C) 2011-2012 Jean-Christophe PLAGNIOL-VILLARD <plagnioj@jcrosoft.com>
+Copyright (C) 2011 Samsung Electronics
+Copyright (C) 2011 ST-Ericsson SA
+Copyright (C) 2011  STMicroelectronics Ltd
+Copyright (c) 2012 Linaro Ltd
+Copyright (c) 2012 Samsung Electronics Co., Ltd.
+Copyright (c) 2013 MundoReader S.L.
+Copyright (c) 2014 Don Zickus
+Copyright (C) 2014 STMicroelectronics
+Copyright (C) 2014 STMicroelectronics – All Rights Reserved
+Copyright (c) 2015-2018 Jiri Benc
+Copyright (c) 2015 Sabrina Dubroca, Hannes Frederic Sowa
+Copyright (c) 2015, The Linux Foundation. All rights reserved.
+Copyright (c) 2016-2018 Prarit Bhargava
+Copyright (c) 2016, Fuzhou Rockchip Electronics Co., Ltd
+Copyright (C) 2016 Linaro
+Copyright (c) 2016 Rockchip Electronics Co. Ltd.
+Copyright (c) 2017 Paolo Abeni, Larry Woodman
+Copyright (c) 2020-2021 Rockchip Electronics Co. Ltd.
+Copyright (C) 2020 Google, Inc.
+Copyright (C) 2021 Realtek NIC software team <nicfae@realtek.com>
+Copyright(c) 2021 Realtek Semiconductor Corp. All rights reserved.
+Copyright (c) 2021 Rockchip Electronics Co. Ltd.
+Copyright (C) 2021 Rockchip Inc.
+Copyright (c) 2021, The Linux Foundation. All rights reserved.
+Copyright (C) Fuzhou Rockchip Electronics Co.Ltd
+Copyright (C) Rockchip Electronics Co.Ltd
+
+License: the GPL-2.0 license
+SPDX-License-Identifier: GPL-2.0-only
+----------------------------------------------------------------------
+
+Software: rockchip-linux kernel develop-5.10
+https://github.com/rockchip-linux/kernel/tree/develop-5.10
+commit a4423c56f430bfc7c75dbb68d4a9a1a0ef62b371
+
+
+Copyright notice:
+Copyright (c) 2018 Fuzhou Rockchip Electronics Co., Ltd
+Copyright (c) 2019 Fuzhou Rockchip Electronics Co., Ltd
+Copyright (C) 2019, Fuzhou Rockchip Electronics Co., Ltd
+Copyright (C) 2019 Rockchip Electronics Co., Ltd.
+Copyright (c) 2020~2021 Rockchip Electronics Co., Ltd.
+Copyright (c) 2020 Fuzhou Rockchip Electronics Co., Ltd
+Copyright (c) 2020 Rockchip Electronics Co., Ltd
+Copyright (c) 2020 Rockchip Electronics Co., Ltd.
+Copyright (c) 2021 Rockchip Electronics Co., Ltd
+Copyright (c) 2021 Rockchip Electronics Co., Ltd.
+Copyright (C) 2021 Rockchip Electronics Co., Ltd.
+Copyright (C) 2022, Rockchip Electronics Co., Ltd
+
+License: the GPL-2.0, or the GPL-2.0-or-later, or MIT
+SPDX-License-Identifier: (GPL-2.0+ OR MIT)
+----------------------------------------------------------------------
+Software: rockchip-linux kernel develop-5.10
+https://github.com/rockchip-linux/kernel/tree/develop-5.10
+commit a4423c56f430bfc7c75dbb68d4a9a1a0ef62b371
+
+
+Copyright notice:
+(C) Copyright 2002-2004 by David Brownell
+(C) COPYRIGHT 2008-2017 ARM Limited. All rights reserved.
+(C)COPYRIGHT 2010-2011, 2013, 2017 ARM Limited. All rights reserved.
+(C) COPYRIGHT 2010, 2012-2013, 2015 ARM Limited. All rights reserved.
+(C) COPYRIGHT 2010, 2012-2014 ARM Limited. All rights reserved.
+(C) COPYRIGHT 2010, 2012-2015, 2017-2021 ARM Limited. All rights reserved.
+(C) COPYRIGHT 2010, 2012-2015, 2018, 2020-2021 ARM Limited. All rights reserved.
+(C) COPYRIGHT 2010, 2012-2015 ARM Limited. All rights reserved.
+(C) COPYRIGHT 2010, 2012-2017 ARM Limited. All rights reserved.
+(C) COPYRIGHT 2010, 2012-2021 ARM Limited. All rights reserved.
+(C) COPYRIGHT 2010, 2013 ARM Limited. All rights reserved.
+(C) COPYRIGHT 2010-2013 ARM Limited. All rights reserved.
+(C) COPYRIGHT 2010-2014, 2016, 2017 ARM Limited. All rights reserved.
+(C) COPYRIGHT 2010-2014, 2016-2021 ARM Limited. All rights reserved.
+(C) COPYRIGHT 2010-2014, 2020-2021 ARM Limited. All rights reserved.
+(C) COPYRIGHT 2010-2014 ARM Limited. All rights reserved.
+(C) COPYRIGHT 2010-2015, 2018-2021 ARM Limited. All rights reserved.
+(C) COPYRIGHT 2010-2015, 2020-2021 ARM Limited. All rights reserved.
+(C) COPYRIGHT 2010-2015 ARM Limited. All rights reserved.
+(C)COPYRIGHT 2010-2016, 2017 ARM Limited. All rights reserved.
+(C) COPYRIGHT 2010-2016, 2018-2021 ARM Limited. All rights reserved.
+(C) COPYRIGHT 2010-2016, 2020-2021 ARM Limited. All rights reserved.
+(C) COPYRIGHT 2010-2016 ARM Limited. All rights reserved.
+(C) COPYRIGHT 2010-2017, 2019-2021 ARM Limited. All rights reserved.
+(C) COPYRIGHT 2010-2017, 2020-2021 ARM Limited. All rights reserved.
+(C) COPYRIGHT 2010-2017 ARM Limited. All rights reserved.
+(C)COPYRIGHT 2010-2017 ARM Limited. All rights reserved.
+(C) COPYRIGHT 2010-2018, 2020-2021 ARM Limited. All rights reserved.
+(C) COPYRIGHT 2010-2021 ARM Limited. All rights reserved.
+(C)COPYRIGHT 2010-2021 ARM Limited. All rights reserved.
+(C) COPYRIGHT 2010 ARM Limited. All rights reserved.
+(C)COPYRIGHT 2010 ARM Limited. All rights reserved.
+(C)COPYRIGHT 2011-2013, 2015 ARM Limited. All rights reserved.
+(C) COPYRIGHT 2011-2013 ARM Limited. All rights reserved.
+(C) COPYRIGHT 2011-2014, 2016-2017, 2020-2021 ARM Limited. All rights reserved.
+(C) COPYRIGHT 2011-2014, 2016 ARM Limited. All rights reserved.
+(C) COPYRIGHT 2011-2014, 2017, 2020-2021 ARM Limited. All rights reserved.
+(C) COPYRIGHT 2011-2014 ARM Limited. All rights reserved.
+(C) COPYRIGHT 2011-2015, 2017, 2019-2021 ARM Limited. All rights reserved.
+(C) COPYRIGHT 2011-2015, 2017, 2020-2021 ARM Limited. All rights reserved.
+(C) COPYRIGHT 2011-2015,2017 ARM Limited. All rights reserved.
+(C) COPYRIGHT 2011-2015, 2018, 2020-2021 ARM Limited. All rights reserved.
+(C) COPYRIGHT 2011-2015, 2018-2021 ARM Limited. All rights reserved.
+(C) COPYRIGHT 2011-2015 ARM Limited. All rights reserved.
+(C) COPYRIGHT 2011-2016, 2018-2021 ARM Limited. All rights reserved.
+(C) COPYRIGHT 2011-2016, 2020-2021 ARM Limited. All rights reserved.
+(C) COPYRIGHT 2011-2016 ARM Limited. All rights reserved.
+(C) COPYRIGHT 2011-2017, 2019-2021 ARM Limited. All rights reserved.
+(C) COPYRIGHT 2011-2017, 2020-2021 ARM Limited. All rights reserved.
+(C) COPYRIGHT 2011-2017 ARM Limited. All rights reserved.
+(C) COPYRIGHT 2011-2018, 2020-2021 ARM Limited. All rights reserved.
+(C) COPYRIGHT 2011-2021 ARM Limited. All rights reserved.
+(C) COPYRIGHT 2012-2013, 2015-2016 ARM Limited. All rights reserved.
+(C) COPYRIGHT 2012-2013, 2015, 2018, 2020-2021 ARM Limited. All rights reserved.
+(C) COPYRIGHT 2012-2013, 2015, 2020-2021 ARM Limited. All rights reserved.
+(C) COPYRIGHT 2012-2013, 2015 ARM Limited. All rights reserved.
+(C)COPYRIGHT 2012-2013, 2016-2017, 2020-2021 ARM Limited. All rights reserved.
+(C)COPYRIGHT 2012-2013, 2016-2017, 2021 ARM Limited. All rights reserved.
+(C)COPYRIGHT 2012-2013, 2016 ARM Limited. All rights reserved.
+(C)COPYRIGHT 2012-2013, 2017, 2021 ARM Limited. All rights reserved.
+(C)COPYRIGHT 2012-2013 ARM Limited. All rights reserved.
+(C) COPYRIGHT 2012-2014, 2016-2018, 2020-2021 ARM Limited. All rights reserved.
+(C) COPYRIGHT 2012-2014, 2016, 2020-2021 ARM Limited. All rights reserved.
+(C) COPYRIGHT 2012-2014, 2016 ARM Limited. All rights reserved.
+(C) COPYRIGHT 2012-2014, 2017 ARM Limited. All rights reserved.
+(C) COPYRIGHT 2012-2014, 2020-2021 ARM Limited. All rights reserved.
+(C) COPYRIGHT 2012-2014 ARM Limited. All rights reserved.
+(C) COPYRIGHT 2012-2015, 2017, 2020-2021 ARM Limited. All rights reserved.
+(C) COPYRIGHT 2012-2015, 2018, 2020-2021 ARM Limited. All rights reserved.
+(C) COPYRIGHT 2012-2015, 2018-2021 ARM Limited. All rights reserved.
+(C) COPYRIGHT 2012-2015 ARM Limited. All rights reserved.
+(C)COPYRIGHT 2012-2015 ARM Limited. All rights reserved.
+(C)COPYRIGHT 2012-2016, 2017 ARM Limited. All rights reserved.
+(C) COPYRIGHT 2012-2016, 2018, 2020-2021 ARM Limited. All rights reserved.
+(C) COPYRIGHT 2012-2016, 2018-2021 ARM Limited. All rights reserved.
+(C) COPYRIGHT 2012-2016, 2020-2021 ARM Limited. All rights reserved.
+(C) COPYRIGHT 2012-2016 ARM Limited. All rights reserved.
+(C)COPYRIGHT 2012-2016 ARM Limited. All rights reserved.
+(C) COPYRIGHT 2012-2017, 2019-2021 ARM Limited. All rights reserved.
+(C) COPYRIGHT 2012-2017, 2020-2021 ARM Limited. All rights reserved.
+(C)COPYRIGHT 2012-2017, 2020-2021 ARM Limited. All rights reserved.
+(C) COPYRIGHT 2012-2017 ARM Limited. All rights reserved.
+(C) COPYRIGHT 2012-2018, 2020-2021 ARM Limited. All rights reserved.
+(C)COPYRIGHT 2012, 2020-2021 ARM Limited. All rights reserved.
+(C)COPYRIGHT 2012, 2020 ARM Limited. All rights reserved.
+(C) COPYRIGHT 2012-2021 ARM Limited. All rights reserved.
+(C)COPYRIGHT 2012-2021 ARM Limited. All rights reserved.
+(C)COPYRIGHT 2012 ARM Limited. All rights reserved.
+(C) COPYRIGHT 2013-2014, 2016, 2019-2021 ARM Limited. All rights reserved.
+(C)COPYRIGHT 2013-2014, 2016 ARM Limited. All rights reserved.
+(C) COPYRIGHT 2013-2014 ARM Limited. All rights reserved.
+(C) COPYRIGHT 2013-2015, 2017 ARM Limited. All rights reserved.
+(C) COPYRIGHT 2013-2015, 2019-2021 ARM Limited. All rights reserved.
+(C) COPYRIGHT 2013-2015 ARM Limited. All rights reserved.
+(C) COPYRIGHT 2013-2017 ARM Limited. All rights reserved.
+(C) COPYRIGHT 2013-2021 ARM Limited. All rights reserved.
+(C) COPYRIGHT 2014-2015, 2017-2018, 2020-2021 ARM Limited. All rights reserved.
+(C) COPYRIGHT 2014-2015, 2017 ARM Limited. All rights reserved.
+(C) COPYRIGHT 2014-2015, 2018, 2019-2021 ARM Limited. All rights reserved.
+(C) COPYRIGHT 2014-2015, 2018, 2020-2021 ARM Limited. All rights reserved.
+(C) COPYRIGHT 2014-2015, 2018-2021 ARM Limited. All rights reserved.
+(C) COPYRIGHT 2014-2015, 2019-2021 ARM Limited. All rights reserved.
+(C) COPYRIGHT 2014-2015, 2020-2021 ARM Limited. All rights reserved.
+(C) COPYRIGHT 2014-2015 ARM Limited. All rights reserved.
+(C)COPYRIGHT 2014-2016, 2017 ARM Limited. All rights reserved.
+(C) COPYRIGHT 2014, 2016-2018, 2020-2021 ARM Limited. All rights reserved.
+(C) COPYRIGHT 2014-2016, 2018, 2020-2021 ARM Limited. All rights reserved.
+(C) COPYRIGHT 2014, 2016, 2018-2021 ARM Limited. All rights reserved.
+(C) COPYRIGHT 2014-2016, 2018-2021 ARM Limited. All rights reserved.
+(C) COPYRIGHT 2014, 2016, 2019-2021 ARM Limited. All rights reserved.
+(C) COPYRIGHT 2014, 2016, 2020-2021 ARM Limited. All rights reserved.
+(C) COPYRIGHT 2014-2016, 2020-2021 ARM Limited. All rights reserved.
+(C) COPYRIGHT 2014, 2016 ARM Limited. All rights reserved.
+(C) COPYRIGHT 2014-2016 ARM Limited. All rights reserved.
+(C) COPYRIGHT 2014, 2017, 2020-2021 ARM Limited. All rights reserved.
+(C) COPYRIGHT 2014-2017, 2020-2021 ARM Limited. All rights reserved.
+(C) COPYRIGHT 2014, 2017-2021 ARM Limited. All rights reserved.
+(C) COPYRIGHT 2014, 2017 ARM Limited. All rights reserved.
+(C) COPYRIGHT 2014-2017 ARM Limited. All rights reserved.
+(C)COPYRIGHT 2014,2017 ARM Limited. All rights reserved.
+(C)COPYRIGHT 2014-2017 ARM Limited. All rights reserved.
+(C) COPYRIGHT 2014, 2018, 2020-2021 ARM Limited. All rights reserved.
+(C) COPYRIGHT 2014-2018, 2020-2021 ARM Limited. All rights reserved.
+(C) COPYRIGHT 2014, 2018-2021 ARM Limited. All rights reserved.
+(C) COPYRIGHT 2014, 2019-2021 ARM Limited. All rights reserved.
+(C) COPYRIGHT 2014, 2020-2021 ARM Limited. All rights reserved.
+(C) COPYRIGHT 2014-2020 ARM Limited. All rights reserved.
+(C) COPYRIGHT 2014-2021 ARM Limited. All rights reserved.
+(C)COPYRIGHT 2014-2021 ARM Limited. All rights reserved.
+(C) COPYRIGHT 2014 ARM Limited. All rights reserved.
+(C) COPYRIGHT 2015-2016 ARM Limited. All rights reserved.
+(C)COPYRIGHT 2015-2016 ARM Limited. All rights reserved.
+(C) COPYRIGHT 2015, 2017, 2020-2021 ARM Limited. All rights reserved.
+(C) COPYRIGHT 2015, 2017-2021 ARM Limited. All rights reserved.
+(C) COPYRIGHT 2015-2017 ARM Limited. All rights reserved.
+(C)COPYRIGHT 2015, 2017 ARM Limited. All rights reserved.
+(C) COPYRIGHT 2015, 2018, 2020-2021 ARM Limited. All rights reserved.
+(C) COPYRIGHT 2015-2018, 2020-2021 ARM Limited. All rights reserved.
+(C) COPYRIGHT 2015, 2020-2021 ARM Limited. All rights reserved.
+(C) COPYRIGHT 2015-2021 ARM Limited. All rights reserved.
+(C) COPYRIGHT 2015 ARM Limited. All rights reserved.
+(C) COPYRIGHT 2016, 2017 ARM Limited. All rights reserved.
+(C) COPYRIGHT 2016-2017 ARM Limited. All rights reserved.
+(C)COPYRIGHT 2016-2017 ARM Limited. All rights reserved.
+(C) COPYRIGHT 2016-2018, 2020-2021 ARM Limited. All rights reserved.
+(C)COPYRIGHT 2016-2018, 2020-2021 ARM Limited. All rights reserved.
+(C) COPYRIGHT 2016, 2020-2021 ARM Limited. All rights reserved.
+(C) COPYRIGHT 2016-2021 ARM Limited. All rights reserved.
+(C) COPYRIGHT 2016 ARM Limited. All rights reserved.
+(C) COPYRIGHT 2017-2018, 2020-2021 ARM Limited. All rights reserved.
+(C) COPYRIGHT 2017, 2020-2021 ARM Limited. All rights reserved.
+(C)COPYRIGHT 2017, 2020-2021 ARM Limited. All rights reserved.
+(C) COPYRIGHT 2017-2021 ARM Limited. All rights reserved.
+(C) COPYRIGHT 2017 ARM Limited. All rights reserved.
+(C)COPYRIGHT 2017 ARM Limited. All rights reserved.
+(C) COPYRIGHT 2018, 2020-2021 ARM Limited. All rights reserved.
+(C) COPYRIGHT 2018-2021 ARM Limited. All rights reserved.
+(C)COPYRIGHT 2018-2021 ARM Limited. All rights reserved.
+(C) COPYRIGHT 2019-2021 ARM Limited. All rights reserved.
+(C)COPYRIGHT 2019-2021 ARM Limited. All rights reserved.
+(C) COPYRIGHT 2020-2021 ARM Limited. All rights reserved.
+(C)COPYRIGHT 2020-2021 ARM Limited. All rights reserved.
+(C) COPYRIGHT 2021 ARM Limited. All rights reserved.
+(C)COPYRIGHT 2021 ARM Limited. All rights reserved.
+(C) COPYRIGHT ARM Limited. All rights reserved.
+(C) COPYRIGHT RockChip Limited. All rights reserved.
+COPYRIGHT 2012, 2020 ARM Limited. All rights reserved.
+COPYRIGHT 2012 ARM Limited. All rights reserved.
+COPYRIGHT 2015-2016 ARM Limited. All rights reserved.
+COPYRIGHT 2021 ARM Limited. All rights reserved.
+Copyright 2021 Google LLC
+Copyright (C) 1999-2016, Broadcom Corporation
+Copyright (C) 1999-2017, Broadcom Corporation
+Copyright (C) 1999-2018, Broadcom.
+Copyright (C) 1999-2019, Broadcom.
+Copyright (C) 2009, Guennadi Liakhovetski <g.liakhovetski@gmx.de>
+Copyright (C) 2010-2011, 2013-2014, 2016-2017 ARM Limited. All rights reserved.
+Copyright (C) 2010-2011, 2013, 2016-2017 ARM Limited. All rights reserved.
+Copyright(C) 2010-2011, 2013, 2016-2017 ARM Limited. All rights reserved.
+Copyright(C) 2010-2011 ARM Limited. All rights reserved.
+Copyright (C) 2010, 2012, 2014, 2016-2017 ARM Limited. All rights reserved.
+Copyright (C) 2010, 2012-2014, 2016-2017 ARM Limited. All rights reserved.
+Copyright (C) 2010-2012, 2014, 2016-2017 ARM Limited. All rights reserved.
+Copyright(C) 2010-2012, 2014, 2016-2017 ARM Limited. All rights reserved.
+Copyright (C) 2010-2012, 2014-2017 ARM Limited. All rights reserved.
+Copyright (C) 2010, 2012-2017 ARM Limited. All rights reserved.
+Copyright(C) 2010-2012 ARM Limited. All rights reserved.
+Copyright (C) 2010, 2013-2014, 2016-2017 ARM Limited. All rights reserved.
+Copyright (C) 2010, 2013, 2015-2017 ARM Limited. All rights reserved.
+Copyright (C) 2010, 2013, 2016-2017 ARM Limited. All rights reserved.
+Copyright (C) 2010-2013, 2016-2017 ARM Limited. All rights reserved.
+Copyright (C) 2010, 2013-2017 ARM Limited. All rights reserved.
+Copyright (C) 2010, 2014, 2016-2017 ARM Limited. All rights reserved.
+Copyright (C) 2010-2014, 2016-2017 ARM Limited. All rights reserved.
+Copyright (C) 2010-2017 ARM Limited. All rights reserved.
+Copyright(C) 2010-2017 ARM Limited. All rights reserved.
+Copyright (C) 2011-2013, 2016-2017 ARM Limited. All rights reserved.
+Copyright (C) 2011-2014, 2016-2017 ARM Limited. All rights reserved.
+Copyright (C) 2011-2017 ARM Limited. All rights reserved.
+Copyright (C) 2011 Google, Inc.
+Copyright (C) 2012-2013, 2016-2017 ARM Limited. All rights reserved.
+Copyright (C) 2012-2014, 2016-2017 ARM Limited. All rights reserved.
+Copyright (C) 2012, 2014-2017 ARM Limited. All rights reserved.
+Copyright (C) 2012-2015, 2017-2018 ARM Limited. All rights reserved.
+Copyright (C) 2012-2015, 2017 ARM Limited. All rights reserved.
+Copyright (C) 2012, 2016-2017 ARM Limited. All rights reserved.
+Copyright(C) 2012, 2016-2017 ARM Limited. All rights reserved.
+Copyright (C) 2012-2017 ARM Limited. All rights reserved.
+Copyright (C) 2012-2018 ARM Limited. All rights reserved.
+Copyright (C) 2012  Intel Corp
+Copyright (C) 2012, RockChip
+Copyright (C) 2013-2014, 2016-2017 ARM Limited. All rights reserved.
+Copyright (C) 2013-2014, 2017 ARM Limited. All rights reserved.
+Copyright (C) 2013, 2015-2017 ARM Limited. All rights reserved.
+Copyright (C) 2013, 2016-2017 ARM Limited. All rights reserved.
+Copyright (C) 2013, 2017 ARM Limited. All rights reserved.
+Copyright (C) 2013-2017 ARM Limited. All rights reserved.
+Copyright (C) 2013-2018 ARM Limited. All rights reserved.
+Copyright(c) 2016, Fuzhou Rockchip Electronics Co., Ltd
+Copyright (C) 2016, Fuzhou Rockchip Electronics Co., Ltd
+Copyright (C) 2017 Fuzhou Rockchip Electronics Co., Ltd
+Copyright (c) 2017 ROCKCHIP, Co. Ltd.
+Copyright (c) 2018 Fuzhou Rockchip Electronics Co., Ltd
+Copyright (c) 2018 Fuzhou Rockchip Electronics Co., Ltd.
+Copyright (c) 2018, Fuzhou Rockchip Electronics Co., Ltd.
+Copyright (C) 2018 Rockchip Electronics Co., Ltd.
+Copyright (c) 2019 Fuzhou Rockchip Electronics Co., Ltd
+Copyright (c) 2019 Fuzhou Rockchip Electronics Co., Ltd.
+Copyright(c) 2019 Fuzhou Rockchip Electronics Co., Ltd. */
+Copyright (C) 2019 Fuzhou Rockchip Electronics Co., Ltd.
+Copyright (c) 2019 Rockchip Electronics Co. Ltd.
+Copyright (c) 2019 Rockchip Electronics Co., Ltd.
+Copyright (C) 2019 Rockchip Electronics Co., Ltd.
+Copyright(C) 2019 Rockchip Electronics Co., Ltd */
+Copyright (C) 2019 ROCKCHIP, Inc.
+Copyright (C) 2020 Linaro Ltd.
+Copyright (C) 2020 Linaro, Ltd.
+Copyright (c) 2020 Rockchip Electronics Co. Ltd.
+Copyright (c) 2020 Rockchip Electronics Co., Ltd.
+Copyright(c) 2020 Rockchip Electronics Co., Ltd. */
+Copyright (C) 2020 Rockchip Electronics Co., Ltd.
+Copyright(C) 2020 Rockchip Electronics Co., Ltd */
+Copyright (c) 2020, Rockchip Electronics Co., Ltd.
+Copyright (c) 2021 Fuzhou Rockchip Electronics Co., Ltd.
+Copyright (c) 2021 Rockchip Electronics Co. Ltd.
+Copyright (c) 2021 Rockchip Electronics Co., Ltd
+Copyright (c) 2021 Rockchip Electronics Co., Ltd.
+Copyright(c) 2021 Rockchip Electronics Co., Ltd. */
+Copyright (C) 2021 Rockchip Electronics Co., Ltd
+Copyright (C) 2021 Rockchip Electronics Co., Ltd.
+Copyright(C) 2021 Rockchip Electronics Co., Ltd */
+Copyright (c) 2022-2023 Huawei Technologies Co., Ltd.
+Copyright (c) Fuzhou Rockchip Electronics Co.Ltd
+Copyright (C) Fuzhou Rockchip Electronics Co.Ltd
+Copyright (C) Linaro Ltd 2020
+Copyright(c) Rockchip Electronics Co., Ltd. */
+Copyright (C) Rockchip Electronics Co., Ltd.
+Copyright (C) Rockchip Electronics Co.Ltd
+
+License: the GPL-2.0 license
+SPDX-License-Identifier: GPL-2.0
+----------------------------------------------------------------------
+Software: rockchip-linux kernel develop-5.10
+https://github.com/rockchip-linux/kernel/tree/develop-5.10
+commit a4423c56f430bfc7c75dbb68d4a9a1a0ef62b371
+
+
+Copyright notice:
+Copyright (C) 2017 Rockchip Electronics Co., Ltd.
+Copyright (C) 2018-2019 Rockchip Electronics Co., Ltd.
+Copyright (C) 2018 Rockchip Electronics Co., Ltd.
+Copyright (C) 2019 Rockchip Electronics Co., Ltd.
+Copyright (C) 2020 Rockchip Electronics Co., Ltd.
+Copyright (C) 2021 Rockchip Electronics Co., Ltd.
+
+License: the GPL-2.0, or the GPL-2.0-or-later, or the Linux-syscall-note or MIT license
+SPDX:((GPL-2.0+ WITH Linux-syscall-note) OR MIT)
+
+----------------------------------------------------------------------
+Software: rockchip-linux kernel develop-5.10
+https://github.com/rockchip-linux/kernel/tree/develop-5.10
+commit a4423c56f430bfc7c75dbb68d4a9a1a0ef62b371
+
+
+Copyright notice:
+(C) COPYRIGHT 2010, 2012-2015, 2017-2021 ARM Limited. All rights reserved.
+(C) COPYRIGHT 2010, 2012-2015, 2018, 2020-2021 ARM Limited. All rights reserved.
+(C) COPYRIGHT 2010, 2012-2021 ARM Limited. All rights reserved.
+(C) COPYRIGHT 2010-2014, 2016-2021 ARM Limited. All rights reserved.
+(C) COPYRIGHT 2010-2014, 2020-2021 ARM Limited. All rights reserved.
+(C) COPYRIGHT 2010-2015, 2018-2021 ARM Limited. All rights reserved.
+(C) COPYRIGHT 2010-2015, 2020-2021 ARM Limited. All rights reserved.
+(C) COPYRIGHT 2010-2016, 2018-2021 ARM Limited. All rights reserved.
+(C) COPYRIGHT 2010-2016, 2020-2021 ARM Limited. All rights reserved.
+(C) COPYRIGHT 2010-2017, 2019-2021 ARM Limited. All rights reserved.
+(C) COPYRIGHT 2010-2017, 2020-2021 ARM Limited. All rights reserved.
+(C) COPYRIGHT 2010-2018, 2020-2021 ARM Limited. All rights reserved.
+(C) COPYRIGHT 2010-2021 ARM Limited. All rights reserved.
+(C)COPYRIGHT 2010-2021 ARM Limited. All rights reserved.
+(C) COPYRIGHT 2011-2014, 2016-2017, 2020-2021 ARM Limited. All rights reserved.
+(C) COPYRIGHT 2011-2014, 2017, 2020-2021 ARM Limited. All rights reserved.
+(C) COPYRIGHT 2011-2015, 2017, 2019-2021 ARM Limited. All rights reserved.
+(C) COPYRIGHT 2011-2015, 2017, 2020-2021 ARM Limited. All rights reserved.
+(C) COPYRIGHT 2011-2015, 2018, 2020-2021 ARM Limited. All rights reserved.
+(C) COPYRIGHT 2011-2015, 2018-2021 ARM Limited. All rights reserved.
+(C) COPYRIGHT 2011-2016, 2018-2021 ARM Limited. All rights reserved.
+(C) COPYRIGHT 2011-2016, 2020-2021 ARM Limited. All rights reserved.
+(C) COPYRIGHT 2011-2017, 2019-2021 ARM Limited. All rights reserved.
+(C) COPYRIGHT 2011-2017, 2020-2021 ARM Limited. All rights reserved.
+(C) COPYRIGHT 2011-2018, 2020-2021 ARM Limited. All rights reserved.
+(C) COPYRIGHT 2011-2021 ARM Limited. All rights reserved.
+(C) COPYRIGHT 2012-2013, 2015, 2018, 2020-2021 ARM Limited. All rights reserved.
+(C) COPYRIGHT 2012-2013, 2015, 2020-2021 ARM Limited. All rights reserved.
+(C)COPYRIGHT 2012-2013, 2016-2017, 2020-2021 ARM Limited. All rights reserved.
+(C)COPYRIGHT 2012-2013, 2016-2017, 2021 ARM Limited. All rights reserved.
+(C)COPYRIGHT 2012-2013, 2017, 2021 ARM Limited. All rights reserved.
+(C) COPYRIGHT 2012-2014, 2016-2018, 2020-2021 ARM Limited. All rights reserved.
+(C) COPYRIGHT 2012-2014, 2016, 2020-2021 ARM Limited. All rights reserved.
+(C) COPYRIGHT 2012-2014, 2020-2021 ARM Limited. All rights reserved.
+(C) COPYRIGHT 2012-2015, 2017, 2020-2021 ARM Limited. All rights reserved.
+(C) COPYRIGHT 2012-2015, 2018, 2020-2021 ARM Limited. All rights reserved.
+(C) COPYRIGHT 2012-2015, 2018-2021 ARM Limited. All rights reserved.
+(C) COPYRIGHT 2012-2016, 2018, 2020-2021 ARM Limited. All rights reserved.
+(C) COPYRIGHT 2012-2016, 2018-2021 ARM Limited. All rights reserved.
+(C) COPYRIGHT 2012-2016, 2020-2021 ARM Limited. All rights reserved.
+(C) COPYRIGHT 2012-2017, 2019-2021 ARM Limited. All rights reserved.
+(C) COPYRIGHT 2012-2017, 2020-2021 ARM Limited. All rights reserved.
+(C)COPYRIGHT 2012-2017, 2020-2021 ARM Limited. All rights reserved.
+(C) COPYRIGHT 2012-2018, 2020-2021 ARM Limited. All rights reserved.
+(C)COPYRIGHT 2012, 2020-2021 ARM Limited. All rights reserved.
+(C) COPYRIGHT 2012-2021 ARM Limited. All rights reserved.
+(C)COPYRIGHT 2012-2021 ARM Limited. All rights reserved.
+(C) COPYRIGHT 2013-2014, 2016, 2019-2021 ARM Limited. All rights reserved.
+(C) COPYRIGHT 2013-2015, 2019-2021 ARM Limited. All rights reserved.
+(C) COPYRIGHT 2013-2021 ARM Limited. All rights reserved.
+(C) COPYRIGHT 2014-2015, 2017-2018, 2020-2021 ARM Limited. All rights reserved.
+(C) COPYRIGHT 2014-2015, 2018, 2019-2021 ARM Limited. All rights reserved.
+(C) COPYRIGHT 2014-2015, 2018, 2020-2021 ARM Limited. All rights reserved.
+(C) COPYRIGHT 2014-2015, 2018-2021 ARM Limited. All rights reserved.
+(C) COPYRIGHT 2014-2015, 2019-2021 ARM Limited. All rights reserved.
+(C) COPYRIGHT 2014-2015, 2020-2021 ARM Limited. All rights reserved.
+(C) COPYRIGHT 2014, 2016-2018, 2020-2021 ARM Limited. All rights reserved.
+(C) COPYRIGHT 2014-2016, 2018, 2020-2021 ARM Limited. All rights reserved.
+(C) COPYRIGHT 2014, 2016, 2018-2021 ARM Limited. All rights reserved.
+(C) COPYRIGHT 2014-2016, 2018-2021 ARM Limited. All rights reserved.
+(C) COPYRIGHT 2014, 2016, 2019-2021 ARM Limited. All rights reserved.
+(C) COPYRIGHT 2014, 2016, 2020-2021 ARM Limited. All rights reserved.
+(C) COPYRIGHT 2014-2016, 2020-2021 ARM Limited. All rights reserved.
+(C) COPYRIGHT 2014, 2017, 2020-2021 ARM Limited. All rights reserved.
+(C) COPYRIGHT 2014-2017, 2020-2021 ARM Limited. All rights reserved.
+(C) COPYRIGHT 2014, 2017-2021 ARM Limited. All rights reserved.
+(C) COPYRIGHT 2014, 2018, 2020-2021 ARM Limited. All rights reserved.
+(C) COPYRIGHT 2014-2018, 2020-2021 ARM Limited. All rights reserved.
+(C) COPYRIGHT 2014, 2018-2021 ARM Limited. All rights reserved.
+(C) COPYRIGHT 2014, 2019-2021 ARM Limited. All rights reserved.
+(C) COPYRIGHT 2014, 2020-2021 ARM Limited. All rights reserved.
+(C) COPYRIGHT 2014-2020 ARM Limited. All rights reserved.
+(C) COPYRIGHT 2014-2021 ARM Limited. All rights reserved.
+(C)COPYRIGHT 2014-2021 ARM Limited. All rights reserved.
+(C) COPYRIGHT 2015, 2017, 2020-2021 ARM Limited. All rights reserved.
+(C) COPYRIGHT 2015, 2017-2021 ARM Limited. All rights reserved.
+(C) COPYRIGHT 2015, 2018, 2020-2021 ARM Limited. All rights reserved.
+(C) COPYRIGHT 2015-2018, 2020-2021 ARM Limited. All rights reserved.
+(C) COPYRIGHT 2015, 2020-2021 ARM Limited. All rights reserved.
+(C) COPYRIGHT 2015-2021 ARM Limited. All rights reserved.
+(C) COPYRIGHT 2016-2018, 2020-2021 ARM Limited. All rights reserved.
+(C)COPYRIGHT 2016-2018, 2020-2021 ARM Limited. All rights reserved.
+(C) COPYRIGHT 2016, 2020-2021 ARM Limited. All rights reserved.
+(C) COPYRIGHT 2016-2021 ARM Limited. All rights reserved.
+(C) COPYRIGHT 2017-2018, 2020-2021 ARM Limited. All rights reserved.
+(C) COPYRIGHT 2017, 2020-2021 ARM Limited. All rights reserved.
+(C)COPYRIGHT 2017, 2020-2021 ARM Limited. All rights reserved.
+(C) COPYRIGHT 2017-2021 ARM Limited. All rights reserved.
+(C) COPYRIGHT 2018, 2020-2021 ARM Limited. All rights reserved.
+(C) COPYRIGHT 2018-2021 ARM Limited. All rights reserved.
+(C)COPYRIGHT 2018-2021 ARM Limited. All rights reserved.
+(C) COPYRIGHT 2019-2021 ARM Limited. All rights reserved.
+(C)COPYRIGHT 2019-2021 ARM Limited. All rights reserved.
+(C) COPYRIGHT 2020-2021 ARM Limited. All rights reserved.
+(C)COPYRIGHT 2020-2021 ARM Limited. All rights reserved.
+(C) COPYRIGHT 2021 ARM Limited. All rights reserved.
+(C)COPYRIGHT 2021 ARM Limited. All rights reserved.
+Copyright(c) 2018 Fuzhou Rockchip Electronics Co., Ltd.
+Copyright (C) 2018 Rockchip Electronics Co., Ltd.
+
+License: GPL-2.0 WITH Linux-syscall-note
+SPDX-License-Identifier: GPL-2.0 WITH Linux-syscall-note
+
+(C) COPYRIGHT 2015-2021 ARM Limited. All rights reserved.
+
+This program is free software and is provided to you under the terms of the
+GNU General Public License version 2 as published by the Free Software
+Foundation, and any use by you of this program is subject to the terms
+of such GNU license.
+
+This program is distributed in the hope that it will be useful,
+but WITHOUT ANY WARRANTY; without even the implied warranty of
+MERCHANTABILITY or FITNESS FOR A PARTICULAR PURPOSE. See the
+GNU General Public License for more details.
+
+You should have received a copy of the GNU General Public License
+along with this program; if not, you can access it online at
+http://www.gnu.org/licenses/gpl-2.0.html.
+
+----------------------------------------------------------------------
+Software: rockchip-linux kernel develop-5.10
+https://github.com/rockchip-linux/kernel/tree/develop-5.10
+commit a4423c56f430bfc7c75dbb68d4a9a1a0ef62b371
+
+Copyright notice:
+Copyright (C) 2017 Rockchip Electronics Co., Ltd.
+Copyright (C) 2017 Fuzhou Rockchip Electronics Co., Ltd.
+
+License: the GPL-2.0, or the BSD-3-Clause license
+
+Redistribution and use in source and binary forms, with or without
+modification, are permitted provided that the following conditions are met:
+
+1. Redistributions of source code must retain the above copyright notice,
+   this list of conditions and the following disclaimer.
+
+2. Redistributions in binary form must reproduce the above copyright
+   notice, this list of conditions and the following disclaimer in the
+   documentation and/or other materials provided with the distribution.
+
+3. Neither the name of the copyright holder nor the names of its
+   contributors may be used to endorse or promote products derived from this
+   software without specific prior written permission.
+
+THIS SOFTWARE IS PROVIDED BY THE COPYRIGHT HOLDERS AND CONTRIBUTORS "AS IS"
+AND ANY EXPRESS OR IMPLIED WARRANTIES, INCLUDING, BUT NOT LIMITED TO, THE
+IMPLIED WARRANTIES OF MERCHANTABILITY AND FITNESS FOR A PARTICULAR PURPOSE
+ARE DISCLAIMED. IN NO EVENT SHALL THE COPYRIGHT HOLDER OR CONTRIBUTORS BE
+LIABLE FOR ANY DIRECT, INDIRECT, INCIDENTAL, SPECIAL, EXEMPLARY, OR
+CONSEQUENTIAL DAMAGES (INCLUDING, BUT NOT LIMITED TO, PROCUREMENT OF
+SUBSTITUTE GOODS OR SERVICES; LOSS OF USE, DATA, OR PROFITS; OR BUSINESS
+INTERRUPTION) HOWEVER CAUSED AND ON ANY THEORY OF LIABILITY, WHETHER IN
+CONTRACT, STRICT LIABILITY, OR TORT (INCLUDING NEGLIGENCE OR OTHERWISE)
+ARISING IN ANY WAY OUT OF THE USE OF THIS SOFTWARE, EVEN IF ADVISED OF THE
+POSSIBILITY OF SUCH DAMAGE.
+----------------------------------------------------------------------
+
+Software: rockchip-linux kernel develop-5.10
+https://github.com/rockchip-linux/kernel/tree/develop-5.10
+commit a4423c56f430bfc7c75dbb68d4a9a1a0ef62b371
+
+
+Copyright notice:
+Copyright (c) 2020 Rockchip Electronics Co. Ltd.
+Copyright (C) 2011 Freescale Semiconductor, Inc.
+Copyright 2007, 2008 Wolfson Microelectronics PLC.
+Copyright 2008 SlimLogic Ltd.
+Copyright (C) 2011 Freescale Semiconductor, Inc.
+Copyright (c) 2014 MundoReader S.L.
+Copyright (c) 2015 Rockchip Electronics Co. Ltd.
+Copyright (c) 2013 Samsung Electronics Co., Ltd.
+Copyright (c) 2013 Linaro Ltd.
+Copyright (c) 2014 MundoReader S.L.
+Copyright (c) 2015 Rockchip Electronics Co. Ltd.
+Copyright (c) 2013 Samsung Electronics Co., Ltd.
+Copyright (c) 2013 Linaro Ltd.
+Copyright (C) 2021 Rockchip Electronics Co., Ltd
+
+License: the GPL-2.0, or the GPL-2.0-or-later license
+SPDX-License-Identifier: GPL-2.0+
+----------------------------------------------------------------------
+Software: rockchip-linux kernel develop-5.10
+https://github.com/rockchip-linux/kernel/tree/develop-5.10
+commit a4423c56f430bfc7c75dbb68d4a9a1a0ef62b371
+
+
+Copyright notice:
+
+
+License: the GPL-2.0-or-later license
+SPDX-License-Identifier: GPL-2.0-or-later
+----------------------------------------------------------------------
+Software: rockchip-linux kernel develop-5.10
+https://github.com/rockchip-linux/kernel/tree/develop-5.10
+commit a4423c56f430bfc7c75dbb68d4a9a1a0ef62b371
+
+
+Copyright notice:
+
+License: the GPL-2.0, or the MIT license
+SPDX-License-Identifier: GPL-2.0 OR MIT
+----------------------------------------------------------------------
