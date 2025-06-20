@@ -1,0 +1,16 @@
+# SPDX-License-Identifier: GPL-2.0-only
+#
+# PINCTRL infrastructure and drivers
+#
+
+if PINCTRL
+config PINCTRL_RK806
+	tristate "Pinctrl and GPIO driver for RK806 PMIC"
+	depends on MFD_RK806
+	select GPIOLIB
+	select PINMUX
+	select GENERIC_PINCONF
+	help
+	  This selects the pinctrl driver for RK806
+
+endif
