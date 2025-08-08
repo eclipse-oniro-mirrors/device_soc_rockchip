@@ -1,0 +1,9 @@
+#include "device_info/device_info.hcs"
+#include "fs/fs_config.hcs"         /* 文件系统挂载 */
+#include "gpio/gpio_config.hcs"
+#include "i2c/i2c_config.hcs"
+#include "spi/spi_config.hcs"
+
+root {
+    module = "rockchip,rk2206_chip";
+}

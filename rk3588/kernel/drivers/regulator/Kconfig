@@ -1,0 +1,9 @@
+# SPDX-License-Identifier: GPL-2.0-only
+#
+config REGULATOR_RK806
+	tristate "Rockchip RK806 Power regulator"
+	depends on MFD_RK806
+	help
+	  Select this option to enable the power regulator of ROCKCHIP
+	  PMIC RK806. The device supports multiple DCDC/LDO
+	  outputs which can be controlled by spi communication.
