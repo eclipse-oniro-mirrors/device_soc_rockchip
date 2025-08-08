@@ -1,0 +1,39 @@
+# SPDX-License-Identifier: GPL-2.0-only
+config ROCKCHIP_DW_MIPI_DSI
+	bool "Rockchip specific extensions for Synopsys DW MIPI DSI"
+	select GENERIC_PHY_MIPI_DPHY
+	help
+	  This selects support for Rockchip SoC specific extensions
+	  for the Synopsys DesignWare HDMI driver. If you want to
+	  enable MIPI DSI on RK3288 or RK3399 based SoC, you should
+	  select this option.
+
+config ROCKCHIP_DW_DP
+	bool "Rockchip specific extensions for Synopsys DW DPTX"
+	help
+	  Choose this option for Synopsys DesignWare Cores DisplayPort
+	  transmit controller support on Rockchip SoC.
+
+config ROCKCHIP_DRM_CUBIC_LUT
+	bool "Support 3D cubic LUT"
+	depends on NO_GKI
+	help
+	  This add properties to support provision of a 3D cubic
+	  look up table, allowing for color specific adjustments.
+
+config ROCKCHIP_DRM_DEBUG
+	bool "Rockchip DRM debug"
+	depends on DEBUG_FS
+	help
+	  This option add a debug node to dump buf from userspace
+	  dump buffer store at: /data
+	  debug node: /d/dri/0/ff900000.vop/vop_dump/dump
+	  cat /d/dri/0/ff900000.vop/vop_dump/dump get more help
+	  the upper ff900000.vop is different at different SOC platform.
+
+config ROCKCHIP_VCONN
+	bool "Rockchip Virtual connector driver for HDMI/DP/DSI"
+	depends on DRM_ROCKCHIP
+	help
+	  This selects support virtual HDMI/DP/DSI drived by
+	  rockchip vop, This is used for some test.
