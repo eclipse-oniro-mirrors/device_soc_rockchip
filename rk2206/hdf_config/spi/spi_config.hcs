@@ -1,0 +1,80 @@
+root {
+    platform {
+        spi_config {
+            template spi_controller {
+                match_attr = "rockchip_rk2206_spi_0";
+                bus = 0;
+                id = 38;
+                func_mode = 1;
+                cs_gpio = 16;
+                cs_func = 4;
+                cs_type = 1;
+                cs_drv = 8;
+                cs_dir = 2;
+                cs_val = 2;
+                clk_gpio = 17;
+                clk_func = 4;
+                clk_type = 1;
+                clk_drv = 8;
+                clk_dir = 2;
+                clk_val = 2;
+                mosi_gpio = 18;
+                mosi_func = 4;
+                mosi_type = 1;
+                mosi_drv = 8;
+                mosi_dir = 2;
+                mosi_val = 2;
+                miso_gpio = 160; /* 160表示该引脚不用为spi_miso，如果要用则应为19 */
+                miso_func = 4;
+                miso_type = 1;
+                miso_drv = 7;
+                miso_dir = 2;
+                miso_val = 2;
+                bitsPerWord = 0;
+                firstBit = 4;
+                mode = 3;
+                csm = 2;
+                speed = 50000000;
+                isSlave = 0;
+            }
+
+            spi_controller_0x12070000 :: spi_controller {
+                /* lcd的spi接口 */
+                match_attr = "rockchip_rk2206_spi_0";
+                bus = 0;
+                id = 38;
+                func_mode = 1;
+                cs_gpio = 16;
+                cs_func = 4;
+                cs_type = 1;
+                cs_drv = 8;
+                cs_dir = 2;
+                cs_val = 2;
+                clk_gpio = 17;
+                clk_func = 4;
+                clk_type = 1;
+                clk_drv = 8;
+                clk_dir = 2;
+                clk_val = 2;
+                mosi_gpio = 18;
+                mosi_func = 4;
+                mosi_type = 1;
+                mosi_drv = 8;
+                mosi_dir = 2;
+                mosi_val = 2;
+                miso_gpio = 160;
+                miso_func = 4;
+                miso_type = 1;
+                miso_drv = 7;
+                miso_dir = 2;
+                miso_val = 2;
+                bitsPerWord = 0;
+                firstBit = 4;
+                mode = 3;
+                csm = 2;
+                speed = 50000000;
+                isSlave = 0;
+            }
+        }
+    }
+}
