@@ -1,0 +1,15 @@
+# SPDX-License-Identifier: GPL-2.0
+
+menu "RK3588 PCI controller drivers"
+	depends on PCI
+
+config ROCKCHIP_PCIE_DMA_OBJ
+	bool "Rockchip PCIe uDMA transfer support"
+	depends on PCIE_ROCKCHIP_HOST || PCIE_DW_ROCKCHIP
+	default n
+	help
+	  Say y to enable p2p DMA transfer between PCIe components.
+
+source "vendor/drivers/pci/controller/dwc/Kconfig"
+
+endmenu

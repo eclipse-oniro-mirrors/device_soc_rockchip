@@ -1,0 +1,7 @@
+# SPDX-License-Identifier: GPL-2.0-only
+#
+# Multimedia device configuration
+#
+
+source "vendor/drivers/media/i2c/Kconfig"
+source "vendor/drivers/media/platform/Kconfig"
