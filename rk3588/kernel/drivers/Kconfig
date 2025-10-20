@@ -1,0 +1,42 @@
+# SPDX-License-Identifier: GPL-2.0
+# Keep I/O buses first
+
+source "vendor/drivers/clk/Kconfig"
+
+source "vendor/drivers/firmware/Kconfig"
+
+source "vendor/drivers/mmc/Kconfig"
+
+source "vendor/drivers/phy/Kconfig"
+
+source "vendor/drivers/devfreq/Kconfig"
+
+source "vendor/drivers/gpio/Kconfig"
+
+source "vendor/drivers/media/Kconfig"
+
+source "vendor/drivers/pinctrl/Kconfig"
+
+source "vendor/drivers/regulator/Kconfig"
+
+source "vendor/drivers/staging/Kconfig"
+
+source "vendor/drivers/cpufreq/Kconfig.arm"
+
+source "vendor/drivers/dma-buf/Kconfig"
+
+source "vendor/drivers/gpu/drm/rockchip/Kconfig"
+
+source "vendor/drivers/input/Kconfig"
+
+source "vendor/drivers/mfd/Kconfig"
+
+source "vendor/drivers/net/Kconfig"
+
+source "vendor/drivers/pci/Kconfig"
+
+source "vendor/drivers/power/Kconfig"
+
+source "vendor/drivers/soc/Kconfig"
+
+source "vendor/drivers/video/Kconfig"
