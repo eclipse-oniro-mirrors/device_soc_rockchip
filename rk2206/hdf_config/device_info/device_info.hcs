@@ -1,0 +1,69 @@
+root {
+    device_info {
+        match_attr = "hdf_manager";
+        template host {
+            hostName = "";
+            priority = 5;
+            template device {
+                template deviceNode {
+                    policy = 0;
+                    priority = 5;
+                    preload = 0;
+                    permission = 0664;
+                    moduleName = "";
+                    serviceName = "";
+                    deviceMatchAttr = "";
+                }
+            }
+        }
+
+        platform :: host {
+            hostName = "platform_host";
+            priority = 5;
+            
+            device_gpio :: device {
+                device0 :: deviceNode {
+                    policy = 0;
+                    priority = 5;
+                    permission = 0644;
+                    moduleName = "HDF_PLATFORM_GPIO";
+                    serviceName = "HDF_PLATFORM_GPIO";
+                    deviceMatchAttr = "rockchip_rk2206_gpio";
+                }
+            }
+            
+            device_i2c :: device {
+                device0 :: deviceNode {
+                    policy = 2;
+                    priority = 5;
+                    permission = 0644;
+                    moduleName = "HDF_PLATFORM_I2C";
+                    serviceName = "HDF_PLATFORM_I2C";
+                    deviceMatchAttr = "rockchip_rk2206_i2c0";
+                }
+            }
+            
+            device_spi :: device {
+                device0 :: deviceNode {
+                    policy = 1;
+                    priority = 5;
+                    permission = 0644;
+                    moduleName = "HDF_PLATFORM_SPI";
+                    serviceName = "HDF_PLATFORM_SPI_0";
+                    deviceMatchAttr = "rockchip_rk2206_spi_0";
+                }
+            }
+
+            device_fs :: device {
+                device0 :: deviceNode {
+                    policy = 0;
+                    priority = 5;
+                    permission = 0777;
+                    moduleName = "HDF_PLATFORM_FS_LITTLEFS";
+                    serviceName = "littlefs_config";
+                    deviceMatchAttr = "rockchip_rk2206_fs_littlefs";
+                }
+            }
+        }
+    }
+}

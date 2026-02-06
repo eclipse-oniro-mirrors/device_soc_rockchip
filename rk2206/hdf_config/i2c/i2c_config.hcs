@@ -1,0 +1,49 @@
+root {
+    platform {
+        i2c_config {
+            template i2c_controller {
+                match_attr = "rockchip_rk2206_i2c0";
+                bus = 0;
+                id = 17;
+                mode = 2;
+                freq = 100000;
+                scl_gpio = 1;
+                scl_func = 3;
+                scl_type = 0;
+                scl_drv = 8;
+                scl_dir = 2;
+                scl_val = 2;
+                scl_mux = 3;
+                sda_gpio = 0;
+                sda_func = 3;
+                sda_type = 0;
+                sda_drv = 8;
+                sda_dir = 2;
+                sda_val = 2;
+                sda_mux = 3;
+            }
+
+            i2c0 :: i2c_controller {
+                match_attr = "rockchip_rk2206_i2c0";
+                bus = 0;
+                id = 17;
+                mode = 2;
+                freq = 100000;
+                scl_gpio = 1;
+                scl_func = 3;
+                scl_type = 0;
+                scl_drv = 8;
+                scl_dir = 2;
+                scl_val = 2;
+                scl_mux = 3;
+                sda_gpio = 0;
+                sda_func = 3;
+                sda_type = 0;
+                sda_drv = 8;
+                sda_dir = 2;
+                sda_val = 2;
+                sda_mux = 3;
+            }
+        }
+    }
+}
