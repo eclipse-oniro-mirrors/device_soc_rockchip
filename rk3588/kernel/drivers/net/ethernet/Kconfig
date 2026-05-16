@@ -1,0 +1,7 @@
+# SPDX-License-Identifier: GPL-2.0-only
+#
+# Ethernet LAN device configuration
+#
+
+source "vendor/drivers/net/ethernet/realtek/Kconfig"
+source "vendor/drivers/net/ethernet/stmicro/Kconfig"

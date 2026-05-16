@@ -1,0 +1,36 @@
+# SPDX-License-Identifier: GPL-2.0
+# common clock support for ROCKCHIP SoC family.
+
+config CLK_RK3568
+	tristate "Rockchip RK3568 clock controller support"
+	depends on ARM64 || COMPILE_TEST
+	default n
+	help
+	  Build the driver for RK3568 Clock Driver.
+
+config CLK_RK3588
+	tristate "Rockchip RK3588 clock controller support"
+	depends on ARM64 || COMPILE_TEST
+	default y
+	help
+	  Build the driver for RK3588 Clock Driver.
+
+config CLK_RV1126
+	tristate "Rockchip RV1126 clock controller support"
+	depends on ARM || COMPILE_TEST
+	default n
+	help
+	  Build the driver for RV1126 Clock Driver.
+
+config CLK_RK1808
+	tristate "Rockchip RK1808 clock controller support"
+	depends on ARM64 || COMPILE_TEST
+	default n
+	help
+	  Build the driver for RK1808 Clock Driver.
+
+config ROCKCHIP_CLK_LINK
+	tristate "Rockchip clock link support"
+	default CLK_RK3588
+	help
+	  Say y here to enable clock link for Rockchip.
