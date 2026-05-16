@@ -1,0 +1,21 @@
+root {
+    platform {
+        fs_config {
+            template fs_controller {
+                match_attr = "";
+                mount_points = [];
+                block_size = [];
+                block_start = [];
+                block_count = [];
+            }
+
+            fs_littefs :: fs_controller {
+                match_attr = "rockchip_rk2206_fs_littlefs";
+                mount_points = ["/data", "/mnt", "/"];
+                block_size = [4096, 4096, 4096];
+                block_start = [1024, 1280, 1536];
+                block_count = [256, 256, 256];
+            }
+        }
+    }
+}

@@ -1,0 +1,14 @@
+# SPDX-License-Identifier: GPL-2.0-only
+#
+# ARM CPU Frequency scaling drivers
+#
+
+config ARM_ROCKCHIP_CPUFREQ
+	tristate "Rockchip CPUfreq driver"
+	depends on ARCH_ROCKCHIP && CPUFREQ_DT
+	select PM_OPP
+	help
+	  This adds the CPUFreq driver support for Rockchip SoCs,
+	  based on cpufreq-dt.
+
+	  If in doubt, say N.

@@ -1,0 +1,11 @@
+root {
+    platform {
+        gpio_config {
+            controller_0x41020000 {
+                match_attr = "rockchip_rk2206_gpio";
+                groupNum = 4;
+                bitNum = 8;
+            }
+        }
+    }
+}

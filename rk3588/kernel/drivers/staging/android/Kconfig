@@ -1,0 +1,4 @@
+# SPDX-License-Identifier: GPL-2.0
+#
+#
+source "vendor/drivers/staging/android/fiq_debugger/Kconfig"

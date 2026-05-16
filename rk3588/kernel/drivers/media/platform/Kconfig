@@ -1,0 +1,6 @@
+# SPDX-License-Identifier: GPL-2.0-only
+#
+# Multimedia device configuration
+#
+
+source "vendor/drivers/media/platform/rockchip/Kconfig"

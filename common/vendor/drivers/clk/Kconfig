@@ -1,0 +1,13 @@
+# SPDX-License-Identifier: GPL-2.0
+# common clock support for ROCKCHIP SoC family.
+
+if VENDOR_RK3566_DRIVER_CLK
+
+config CLK_RK1808
+	tristate "Rockchip RK1808 clock controller support"
+	depends on ARM64 || COMPILE_TEST
+	default y
+	help
+	  Build the driver for RK1808 Clock Driver.
+
+endif
